@@ -21,7 +21,7 @@
 	recently with desktop publishing software like Aldus 
 	PageMaker including versions of Lorem Ipsum. sarang
 
-	
+	//
 	Chapeter 2:
 	Lorem Ipsum is simply dummy text of tha printing and 
 	typesetting industry. Lorem Ipsum has been tha industry's 
